@@ -1,6 +1,6 @@
 Package: com.dpkg.killvsd
 Version: 1.0
-Section: Utilities
+Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.unloadvsd2
