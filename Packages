@@ -1,2 +1,15 @@
-
+Package: com.killvsd
+Version: 1.0
+Section: Utilities
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.unloadvsd, com.unloadvsd2
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.killvsd.deb
+Size: 768
+MD5sum: 40cb536a4288acbe34a2404d7794681e
+Description: Kill Videosubscriptionsd.
+Name: KillVSD
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.killvsd
 
