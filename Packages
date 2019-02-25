@@ -76,10 +76,10 @@ Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 
-Package: com.saurik.substrate
+Package: com.substrate.cydia
 Version: 0.9.7020
-Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Section: Ch1ll 0ut Utilities
+Maintainer: Saurik
 Depends: substratesafemode
 Conflicts: substitute, Tweak Injector
 Architecture: iphoneos-arm
