@@ -90,7 +90,7 @@ Size: 446592
 MD5sum: a6f524d2dca0c9367a934996002c2dbe
 SHA1: e1b23c0db6977e430da7ccb13fdc3f17f6771d49
 SHA256: 1fad8632f0ab7b2a9399c8036b90216f6fec1ac180f29ae6b34d8887967a5e55
-Section: System
+Section: Ch1ll 0ut Utilities
 Priority: optional
 Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
