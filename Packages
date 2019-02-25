@@ -75,3 +75,17 @@ Name: GoodWiFi
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+
+Package: com.saurik.substrate
+Version: 0.9.7020
+Section: Utilities
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: substratesafemode
+Conflicts: substitute, Tweak Injector
+Architecture: iphoneos-arm
+Filename: ./debs/com.saurik.substrate
+Size: 446592
+MD5sum: A6F524D2DCA0C9367A934996002C2DBE
+Description: Mobile Substrate for a Mobile Jailbreak.
+Name: Cydia Substrate
+Author: Jay Freeman (saurik) <saurik@saurik.com>
