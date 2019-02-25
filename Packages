@@ -83,7 +83,7 @@ Maintainer: Saurik
 Depends: substratesafemode
 Conflicts: substitute, Tweak Injector
 Architecture: iphoneos-arm
-Filename: ./debs/com.saurik.substrate
+Filename: ./debs/com.substrate.cydia
 Size: 446592
 MD5sum: A6F524D2DCA0C9367A934996002C2DBE
 Description: Mobile Substrate for a Mobile Jailbreak.
