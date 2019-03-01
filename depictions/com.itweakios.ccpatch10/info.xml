@@ -1,0 +1,20 @@
+<package>
+	<id>com.itweakios.ccpatch10</id>
+	<name>CommCenter Patch</name>
+	<version>3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Patchs Commcenter process while jailbroken</shortDescription>
+	<descriptionlist>
+		<description>After restart make sure to reinstall this package</description>
+	</descriptionlist>
+	<changelog>
+		<change>Intial Release</change>
+	</changelog>
+</package>

@@ -117,3 +117,31 @@ Description: powerful code insertion platform
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/mobilesubstrate/
 Name: Cydia Substrate
+
+Package: com.iTweakiOS.CarrierCrackATTUS
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Carrier Crack
+Maintainer: Jakey
+Depends: mobilesubstrate, com.itweakios.ccpatch10
+Filename: ./debs/com.iTweakiOS.CarrierCrackATTUS
+Size: 59232
+MD5sum: 3eac074203d247be50054acc9229b10a
+Description: AT&T Carrier Crack
+Name: CarrierCrack - AT&T
+Author: iTweakiOS
+Depiction: https://jakeydev-repo.github.io/PublicRepo/depictions/?p=com.iTweakiOS.CarrierCrackATTUS
+
+Package: com.itweakios.ccpatch10
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Carrier Crack
+Maintainer: Jakey
+Depends: mobilesubstrate
+Filename: ./debs/com.itweakios.ccpatch10
+Size: 10814
+MD5sum: e37eb7720f1dedac0609271c1d182967
+Description: CommCenter Patch
+Name: CCPatch10
+Author: iTweakiOS
+Depiction: https://jakeydev-repo.github.io/PublicRepo/depictions/?p=com.itweakios.ccpatch10

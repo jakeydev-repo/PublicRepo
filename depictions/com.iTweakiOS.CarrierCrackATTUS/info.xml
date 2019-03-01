@@ -1,0 +1,20 @@
+<package>
+	<id>com.iTweakiOS.CarrierCrackATTUS</id>
+	<name>CarrierCrack - AT&T</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Unlocks your phones potential</shortDescription>
+	<descriptionlist>
+		<description>After a restart make sure to reinstall both cc patch and carrier crack</description>
+	</descriptionlist>
+	<changelog>
+		<change>Intial Release</change>
+	</changelog>
+</package>
