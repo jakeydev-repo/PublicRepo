@@ -121,7 +121,7 @@ Name: Cydia Substrate
 Package: com.iTweakiOS.CarrierCrackATTUS
 Architecture: iphoneos-arm
 Version: 1.0.2
-Section: Carrier Crack
+Section: Tweaks
 Maintainer: Jakey
 Depends: mobilesubstrate, com.itweakios.ccpatch10
 Filename: ./debs/com.iTweakiOS.CarrierCrackATTUS
@@ -137,7 +137,7 @@ Depiction: https://jakeydev-repo.github.io/PublicRepo/depictions/?p=com.iTweakiO
 Package: com.itweakios.ccpatch10
 Architecture: iphoneos-arm
 Version: 3.0
-Section: Carrier Crack
+Section: Tweaks
 Maintainer: Jakey
 Depends: mobilesubstrate
 Filename: ./debs/com.itweakios.ccpatch10
