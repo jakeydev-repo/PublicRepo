@@ -107,10 +107,10 @@ Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootst
 Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
 Replaces: cycript (<= 0.9.594)
 Filename: ./debs/mobilesubstrate_0.9.7031_iphoneos-arm.deb
-Size: 446592
-MD5sum: a6f524d2dca0c9367a934996002c2dbe
-SHA1: e1b23c0db6977e430da7ccb13fdc3f17f6771d49
-SHA256: 1fad8632f0ab7b2a9399c8036b90216f6fec1ac180f29ae6b34d8887967a5e55
+Size: 1706518
+MD5sum: 33C7B37722D97844E0EF07F9210388BE
+SHA1: E360C157F238914177437DD23D71F76E91E58DBB
+SHA256: 3EBB5F7ED4609BC1ACFE61E3FA41075F09A4DE3FEB309D6D0C0405A9D64C3E3D
 Section: Ch1ll 0ut Utilities
 Priority: optional
 Description: powerful code insertion platform
