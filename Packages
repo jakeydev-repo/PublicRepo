@@ -127,6 +127,8 @@ Depends: mobilesubstrate, com.itweakios.ccpatch10
 Filename: ./debs/com.iTweakiOS.CarrierCrackATTUS
 Size: 59232
 MD5sum: 3eac074203d247be50054acc9229b10a
+SHA1: f205016c2a948aa75e222f9839f84ac9320e6017
+SHA256: e5790102ab32a05b546bf82fe64e38e6f316d7c2776cf3637cf6180a4c0d6949
 Description: AT&T Carrier Crack
 Name: CarrierCrack - AT&T
 Author: iTweakiOS
@@ -141,6 +143,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.itweakios.ccpatch10
 Size: 10814
 MD5sum: e37eb7720f1dedac0609271c1d182967
+SHA1: 1ae5313e7bbdf222d7ddc2f6aae7955d8ce1a7b9
+SHA256: 22d1674b516061cc3da7db557aede9bfca4a46ba59fee7f01b26afc5cdd4fe87
 Description: CommCenter Patch
 Name: CCPatch10
 Author: iTweakiOS
