@@ -108,9 +108,9 @@ Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrol
 Replaces: cycript (<= 0.9.594)
 Filename: ./debs/mobilesubstrate_0.9.7031_iphoneos-arm.deb
 Size: 1706518
-MD5sum: 33C7B37722D97844E0EF07F9210388BE
-SHA1: E360C157F238914177437DD23D71F76E91E58DBB
-SHA256: 3EBB5F7ED4609BC1ACFE61E3FA41075F09A4DE3FEB309D6D0C0405A9D64C3E3D
+MD5sum: 33c7b37722d97844e0ef07f9210388be
+SHA1: e360c157f238914177437dd23d71f76e91e58dbb
+SHA256: 3ebb5f7ed4609bc1acfe61e3fa41075f09a4de3feb309d6d0c0405a9d64c3e3d
 Section: Ch1ll 0ut Utilities
 Priority: optional
 Description: powerful code insertion platform
