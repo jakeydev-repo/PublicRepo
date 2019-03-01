@@ -120,7 +120,7 @@ Name: Cydia Substrate
 
 Package: com.iTweakiOS.CarrierCrackATTUS
 Architecture: iphoneos-arm
-Version: 1.2
+Version: 1.0.2
 Section: Carrier Crack
 Maintainer: Jakey
 Depends: mobilesubstrate, com.itweakios.ccpatch10
@@ -146,6 +146,6 @@ MD5sum: e37eb7720f1dedac0609271c1d182967
 SHA1: 1ae5313e7bbdf222d7ddc2f6aae7955d8ce1a7b9
 SHA256: 22d1674b516061cc3da7db557aede9bfca4a46ba59fee7f01b26afc5cdd4fe87
 Description: CommCenter Patch
-Name: CCPatch10
+Name: CommCenter path for iOS 7/8/9/10
 Author: iTweakiOS
 Depiction: https://jakeydev-repo.github.io/PublicRepo/depictions/?p=com.itweakios.ccpatch10
