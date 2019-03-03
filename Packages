@@ -130,7 +130,6 @@ MD5sum: 3eac074203d247be50054acc9229b10a
 Description: AT&T Carrier Crack
 Name: CarrierCrack - AT&T
 Author: iTweakiOS
-Depiction: https://jakeydev-repo.github.io/PublicRepo/depictions/?p=com.iTweakiOS.CarrierCrackATTUS
 
 Package: com.itweakios.ccpatch10
 Architecture: iphoneos-arm
@@ -144,7 +143,6 @@ MD5sum: e37eb7720f1dedac0609271c1d182967
 Description: CommCenter Patch
 Name: CommCenter patch for iOS 7/8/9/10
 Author: iTweakiOS
-Depiction: https://jakeydev-repo.github.io/PublicRepo/depictions/?p=com.itweakios.ccpatch10
 
 Package: net.angelxwind.noplsrecovery
 Architecture: iphoneos-arm
@@ -159,7 +157,6 @@ MD5sum: 56822967e45baf8fffe9326ec8200776
 Description: Disables iTunes from being a dick
 Name: NO PLS RECOVERY
 Author: Karen/あけみ (angelXwind)
-Depiction: https://jakeydev-repo.github.io/PublicRepo/depictions/?p=net.angelxwind.noplsrecovery
 
 Package: net.angelxwind.preferenceorganizer2
 Architecture: iphoneos-arm
@@ -174,4 +171,3 @@ MD5sum: cb584a2d75048730a1f0455121075f4f
 Description: Organizes your tweaks
 Name: Preference Organizer 2
 Author: Karen/あけみ (angelXwind)
-Depiction: https://jakeydev-repo.github.io/PublicRepo/depictions/?p=net.angelxwind.preferenceorganizer2
