@@ -168,6 +168,8 @@ Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorga
 Filename: ./debs/net.angelxwind.preferenceorganizer2.deb
 Size: 1377484
 MD5sum: cb584a2d75048730a1f0455121075f4f
+SHA1: 7f15d1b69224da9f54271116401b73d9fa7df467
+SHA256: 465eccc598b4d061b7dd49f1cd3a49ecea27adc62d49afc963888840f19c819e
 Description: Organizes your tweaks
 Name: Preference Organizer 2
 Author: Karen/あけみ (angelXwind)
